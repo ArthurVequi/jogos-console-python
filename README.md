@@ -1,4 +1,4 @@
-Refatoração do trabalho feito no primeiro periodo da faculdade aplicando boas práticas aprendidas
+# Refatoração do trabalho feito no primeiro periodo da faculdade aplicando boas práticas aprendidas
 
 # Jogos de Console em Python
 
@@ -6,7 +6,7 @@ Este repositório contém uma coleção de jogos clássicos em modo de console d
 
 ## Jogos Incluídos
 
-1. **Jogo da Forca (Hangman)**
+1. **Jogo da Forca**
    - Permite jogar com uma palavra aleatória obtida da base de dados local (`palavras.txt`).
    - Permite que outro jogador defina uma palavra personalizada para ser adivinhada.
    - Limite de 10 tentativas para descobrir a palavra secreta.
