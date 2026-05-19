@@ -1,3 +1,5 @@
+Refatoração do trabalho feito no primeiro periodo da faculdade aplicando boas práticas aprendidas
+
 # Jogos de Console em Python
 
 Este repositório contém uma coleção de jogos clássicos em modo de console desenvolvidos em Python.
